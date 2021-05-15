@@ -35,6 +35,6 @@ Este fue el documento creado al final de la guia, partiendo de ello ustedes pued
 
 **Lista de videos**
 
-[![](https://1.bp.blogspot.com/-GDvrHBQiQL4/YJ89r_PFsFI/AAAAAAAAAeE/DHubcjf4zvUawPsd6B90RjWAwQcuf1imwCLcBGAsYHQ/s1600/miniatura.jpg)](https://www.youtube.com/alex7320)
+[![](https://1.bp.blogspot.com/-GDvrHBQiQL4/YJ89r_PFsFI/AAAAAAAAAeE/DHubcjf4zvUawPsd6B90RjWAwQcuf1imwCLcBGAsYHQ/s1600/miniatura.jpg)](https://youtube.com/playlist?list=PLULjDwecBuP8mR0jOFT1ZM6ljfh1uiOdL)
 
 **Nota:** Por limitaciones de la libreria FPDF no se pudo agregar "Creación de gráficos estadisticos" en la guía,
